@@ -1,0 +1,5 @@
+rplidar
+smbus2
+RPi.GPIO
+numpy
+matplotlib
