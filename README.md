@@ -1,7 +1,10 @@
 # 🚗 Autonomous RC Car 
 
-<p align="center"> <img src="resources/car1.png" width="600"> </p>
-<p align="center"> <img src="resources/car2.png" width="600"> </p>
+<p align="center">
+  <img src="resources/car1.png" width="400" style="margin-right: 10px;">
+  <img src="resources/car2.png" width="400">
+</p>
+
 
 ## 📖 About
 This project is a fully autonomous RC car built using a Raspberry Pi, LiDAR, and IMU sensors.
