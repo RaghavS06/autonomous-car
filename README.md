@@ -7,10 +7,16 @@
 
 
 ## 📖 About
-This project is a fully autonomous RC car built using a Raspberry Pi, LiDAR, and IMU sensors.
-It performs real-time environment sensing, steering, and speed control without human input.
+This project is my take on building an autonomous RC car — using a Raspberry Pi, LiDAR, an IMU, and a lot of trial and error!
+The goal was to make a mini self-driving car that could:
+- Sense obstacles,
+- Steer and drive on its own,
+- And learn how real-world robotics systems work under the hood.
 
-Designed for learning robotics, sensor fusion, and embedded systems development.
+Huge credit and inspiration goes to [Steven Gong's YouTube video](https://www.youtube.com/watch?v=R87Qlq_wSY8), which gave me the idea and a starting point for the project.
+(I built on those concepts and customized the system with my own hardware setup and code.)
+
+This project has been an amazing learning experience and I'm excited to keep improving it in the future!
 
 ## ✨ Features
 🔍 Obstacle Detection — real-time 360° scanning with RPLidar
