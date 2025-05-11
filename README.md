@@ -32,51 +32,41 @@ This project has been an amazing learning experience and I'm excited to keep imp
 🧠 Multithreaded Architecture for sensor and actuator synchronization
 
 ## 🛠 Hardware Used
-### Component	Details
 
-Raspberry Pi	(Model 4B)
+| Component              | Details                     |
+| :--------------------- | :-------------------------- |
+| **Raspberry Pi**       | Model 4B                    |
+| **RPLidar**            | A1 Model                    |
+| **MPU6050**            | Gyroscope + Accelerometer   |
+| **L298N Motor Driver** | Dual H-Bridge Controller    |
+| **DC Motor**           | Brushed type, PWM control   |
+| **Servo Motor**        | 5V, standard rotation range |
+| **RC Car Chassis**     | Pre-built                   |
+| **Power Supply**       | 5V for motors and servos    |
 
-RPLidar	A1 Model
-
-MPU6050	Gyroscope + Accelerometer
-
-L298N Motor Driver	Dual H-Bridge Controller
-
-DC Motor	Brushed type, PWM control
-
-Servo Motor	5V, standard rotation range
-
-RC Car Chassis	(pre-built)
-
-Power Supply	5V for motors and servos
 
 ## 🖥 Software Stack
 Language: Python 3.9+
 
-Key Libraries:
-
-rplidar
-
-smbus / smbus2
-
-RPi.GPIO
-
-numpy
-
-matplotlib (optional, for plotting)
+### Key Libraries:
+- rplidar
+- smbus / smbus2
+- RPi.GPIO
+- numpy
+- matplotlib
 
 
-🔌 Wiring Diagram
+# 🔌 Wiring Diagram
 
 (Add a labeled diagram showing how everything connects.)
 
 
-📊 Example Outputs
+# 📊 Example Outputs
 LiDAR Mapping	MPU6050 Tilt Data
 (Insert IMU graph here)
 
-# 🧩 Future Enhancements
-- 🛤 Path Planning and basic route optimization
-- 🗺 SLAM Integration (Simultaneous Localization and Mapping)
-- 🔋 Power Optimization for longer outdoor use
-- 🖥 Web Dashboard for live telemetry viewing
+# 🧩 Future Improvements
+-  Path Planning and basic route optimization
+-  SLAM Integration (Simultaneous Localization and Mapping)
+-  Power Optimization for longer outdoor use
+-  Web Dashboard for live telemetry viewing
