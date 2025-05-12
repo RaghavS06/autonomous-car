@@ -74,9 +74,6 @@ Language: Python 3.9+
   <img src="resources/lidar2.png" width="400">
 </p>
 
-MPU6050 Tilt Data
-(Insert IMU graph here)
-
 # 🧩 Future Improvements
 -  Path Planning and basic route optimization
 -  SLAM Integration (Simultaneous Localization and Mapping)
