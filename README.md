@@ -62,7 +62,18 @@ Language: Python 3.9+
 
 
 # 📊 Example Outputs
-LiDAR Mapping	MPU6050 Tilt Data
+## LiDAR Mapping	
+<p align="center">
+  <img src="resources/setup1.png" width="400" style="margin-right: 10px;">
+  <img src="resources/lidar1.png" width="400">
+</p>
+
+<p align="center">
+  <img src="resources/setup2.png" width="400" style="margin-right: 10px;">
+  <img src="resources/lidar2.png" width="400">
+</p>
+
+MPU6050 Tilt Data
 (Insert IMU graph here)
 
 # 🧩 Future Improvements
