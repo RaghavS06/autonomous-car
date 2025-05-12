@@ -58,8 +58,9 @@ Language: Python 3.9+
 
 # 🔌 Wiring Diagram
 
-(Add a labeled diagram showing how everything connects.)
-
+<p align="center">
+  <img src="resources/wiring diagram.png" width="400">
+</p>
 
 # 📊 Example Outputs
 ## LiDAR Mapping	
